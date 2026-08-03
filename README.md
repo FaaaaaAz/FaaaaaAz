@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Fabián 👋
+<img src="./assets/header-matrix.gif" alt="Hi, I'm Fabián" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+React+Native+Engineer;UX%2FUI+%2B+AI+Enthusiast;Building+products+that+people+actually+enjoy+using" alt="Typing SVG" />
 
@@ -108,16 +108,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaaaaaAz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaaaaaAz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=FaaaaaAz&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FaaaaaAz&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 <picture>

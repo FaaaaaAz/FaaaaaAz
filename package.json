@@ -1,0 +1,12 @@
+{
+  "name": "faaaaaaz-profile",
+  "private": true,
+  "type": "module",
+  "description": "Generates the animated SVG cards for the FaaaaaAz GitHub profile README",
+  "scripts": {
+    "generate": "node scripts/generate.mjs"
+  },
+  "dependencies": {
+    "simple-icons": "16.35.0"
+  }
+}

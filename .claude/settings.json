@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(python -c \"import PIL; print\\('Pillow', PIL.__version__\\)\")",
+      "Read(//c/Windows/Fonts//**)",
+      "Bash(mkdir -p \"/c/Users/Fabian/Desktop/UPB/Proyectos personales/Yo/FaaaaaAz/assets\" && mkdir -p \"/c/Users/Fabian/AppData/Local/Temp/claude/c--Users-Fabian-Desktop-UPB-Proyectos-personales-Yo-FaaaaaAz/207418c2-056a-4daf-9640-e86e694530f9/scratchpad\")",
+      "Bash(time python gen_matrix.py header-matrix.gif preview.png)",
+      "Read(//c/Users/Fabian/AppData/Local/Temp/claude/c--Users-Fabian-Desktop-UPB-Proyectos-personales-Yo-FaaaaaAz/207418c2-056a-4daf-9640-e86e694530f9/scratchpad/**)",
+      "Bash(python -c ' *)",
+      "Bash(cp \"/c/Users/Fabian/AppData/Local/Temp/claude/c--Users-Fabian-Desktop-UPB-Proyectos-personales-Yo-FaaaaaAz/207418c2-056a-4daf-9640-e86e694530f9/scratchpad/header-matrix.gif\" \"/c/Users/Fabian/Desktop/UPB/Proyectos personales/Yo/FaaaaaAz/assets/header-matrix.gif\" && ls -la \"/c/Users/Fabian/Desktop/UPB/Proyectos personales/Yo/FaaaaaAz/assets/\")"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\Fabian\\AppData\\Local\\Temp\\claude\\c--Users-Fabian-Desktop-UPB-Proyectos-personales-Yo-FaaaaaAz\\207418c2-056a-4daf-9640-e86e694530f9\\scratchpad"
+    ]
+  }
+}
